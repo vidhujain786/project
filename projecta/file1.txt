@@ -1,4 +1,5 @@
 This is mergerd file
 This is new merge
 This is first file
+This is branch merge
 This new file
